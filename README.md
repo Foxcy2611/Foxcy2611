@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ngoc Chien</h1>
-<h3 align="center">Embedded Software Engineer | IoT & Edge AI Devoloper</h3>
+My name is NgocChien Trùm VT01. I am an Embedded Systems developer, majoring in Electronics and Telecommunications. I am interested in the following topics: IoT Architecture, Edge AI, and Embedded GUI.
 
-- 🔭 I’m currently working on **Remote Health Monitoring System using Edge AI, QML GUI, and OTA updates for STM32 via MQTT/LoRa.**
+📫 **How to reach me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](LINK_CỦA_ÔNG) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](LINK_CỦA_ÔNG)
 
-- 🌱 I’m currently learning **Advanced Qt/QML, OpenWrt firmware building on Linux, and TinyML (Edge Impulse).**
+<br/>
 
-- 👯 I’m looking to collaborate on **IoT architecture, Embedded AI projects, and C++/Python development.**
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TÊN_USER_CỦA_ÔNG&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd" alt="GitHub Stats" />
+</div>
 
-- 💬 Ask me about **STM32F103, Arduino, ESP32, C/C++, Pyt, Qt/QML, and MQTT protocols**
+<br/>
 
-- 📫 How to reach me **foeveralone2611@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🛠 Tech Stack & Hardware
+* **UI & Data Flow:** Qt/QML, Node-RED
+* **AI / Machine Learning:** Edge Impulse
+* **IoT Protocol:** MQTT
+* **Hardware / Microcontrollers:** STM32 (STM32F103), ESP32, Arduino, Raspberry Pi
+* **Environment:** Linux
