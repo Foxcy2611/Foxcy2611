@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there, I'm Nguyen Ngoc Chien 👋<br>**Embedded Software Engineer | IoT & Edge AI Developer**<br><br>- 🔭 Currently, I am currently a third-year student at PTIT.<br>- ⚡ Key Skills: **STM32, Qt/QML, Node-RED, MQTT, AI Model**.<br>
+### Hi there, I'm Nguyen Ngoc Chien 👋<br>**Embedded Software Engineer | IoT & Edge AI Developer**<br><br>- 🔭 Currently, I am currently a third-year student at PTIT.<br>- ⚡ Key Skills: **Bare-Metal STM32F103C8, Qt/QML, Node-RED, MQTT, AI Model**.<br>
 
 
 ## 🌐 Socials:
