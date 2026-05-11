@@ -1,18 +1,55 @@
-# 💫 About Me:
-### Hi there, I'm Nguyen Ngoc Chien 👋<br>**Embedded Software Engineer | IoT & Edge AI Developer**<br><br>- 🔭 Currently, I am currently a third-year student at PTIT.<br>- ⚡ Key Skills: **Bare-Metal STM32F103C8, Qt/QML, Node-RED, MQTT, AI Model**.<br>
+<h1 align="center">Hi there, I'm NgocChien Trùm VT01 👋</h1>
 
+<h3 align="center">Embedded Systems Developer | Edge AI Enthusiast | PTITer</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ngoc.chien.118175) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fcyy.205/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:foeveralone2611@gmail.com) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Foxcy2611&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Foxcy2611&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Foxcy2611&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 👨‍💻 Về bản thân
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 Sinh viên ngành **Điện tử Viễn thông** tại Học viện Công nghệ Bưu chính Viễn thông (PTIT).
+- 🔬 Đam mê tìm tòi về **Embedded Systems**, **Embedded Linux**, và **TinyML / Edge AI**.
+- 🛠️ Đã "thoát vòng kim cô" của các IDE truyền thống để chuyển sang dùng **VS Code, CMake & Makefile**.
+- 💡 Luôn thích thú với việc đưa AI xuống chạy trên các thiết bị cấu hình thấp.
+
+### 🚀 Những gì tôi đang làm
+
+- 🩺 **Medical Edge AI:** Phát triển mô hình phân loại âm thanh hô hấp y tế (sử dụng Mel-Spectrogram, CNN/DNN) chạy trực tiếp trên **ESP32-S3**.
+- ☁️ **IoT & OTA Updates:** Xây dựng hệ thống cập nhật firmware qua không gian (OTA) sử dụng **LoRa** và **MQTT** cho các node STM32.
+- 🐧 **Embedded Linux:** Build firmware từ source, làm việc với **OpenWrt**, và quản lý môi trường build bằng **Docker**.
+- 🎨 **GUI Development:** Thiết kế giao diện giám sát IoT, dashboard bằng **Qt Framework & QML**.
+
+### 🛠️ Tech Stack & Công cụ
+
+**Hardware & Microcontrollers:**
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+</p>
+
+**Languages & Frameworks:**
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+**Tools & Environments:**
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-D97121?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="Chien's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium" alt="Top Languages" />
+</p>
