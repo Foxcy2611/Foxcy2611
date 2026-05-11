@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=WELCOME%20TO%20MY%20TECH%20HUB&fontSize=50&animation=fadeIn&fontAlignY=40&color=ffffff&desc=NGOCCHIEN%20TRÙM%20VT01%20-%20Embedded%20&%20Edge%20AI%20Developer&descAlignY=65&descFontSize=20&descColor=ffffff" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&category=programming" alt="Programming Quote" />
 </p>
 
 <p align="center">
