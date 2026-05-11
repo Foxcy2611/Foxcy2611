@@ -53,9 +53,6 @@ A curated selection of tools and technologies I work with.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Foxcy2611&theme=transparent&hide_border=true&title_color=0e75b6&text_color=ffffff&icon_color=0e75b6&sideNums=ffffff&sideLabels=ffffff&ring=0e75b6&fire=0e75b6" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxcy2611&layout=compact&theme=transparent&title_color=0e75b6&text_color=ffffff&v=1" alt="Top Languages" />
-</p>
 
 <br>
 
