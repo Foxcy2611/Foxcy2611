@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NgocChien&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-  
-  <img src="https://img.shields.io/github/followers/NgocChien?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Foxcy2611&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Foxcy2611?label=Followers&style=social" alt="Followers" />
 </p>
 
 <p align="center">
@@ -53,16 +52,16 @@ A curated selection of tools and technologies I work with.
 ## 📊 **GITHUB INSIGHTS**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NgocChien&show_icons=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Foxcy2611&show_icons=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocChien&layout=compact&theme=transparent&title_color=0e75b6&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxcy2611&layout=compact&theme=transparent&title_color=0e75b6&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-contribution-graph.vercel.app/api?username=NgocChien&theme=silver" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/0e75b6/Foxcy2611" alt="Contribution Graph" />
 </p>
 
 ---
