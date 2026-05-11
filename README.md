@@ -31,9 +31,8 @@ I focus on practical applications of Edge AI and robust IoT systems.
 | Project | Description & Tech Stack |
 | :--- | :--- |
 | **🩺 Medical Sound Edge AI** | Respiratory sound classification running *on-device*. <br> `ESP32-S3` `Mel-Spectrogram` `CNN/DNN` |
-| **📡 IoT LoRa OTA Updates** | Remote firmware updates over LoRa networks. <br> `STM32` `LoRa` `MQTT` `IoT Security` |
-| **🐧 Embedded Linux (OpenWrt)** | Custom firmware building and system optimization. <br> `C/C++` `Buildroot` `OpenWrt` `Docker` |
-| **🖥️ Qt IoT Dashboard** | Designing cross-platform GUIs for system monitoring. <br> `Qt Framework` `QML` `C++` |
+| **📡 Banlance Robot** | The ESP32 self-balancing and controllable two-wheeled vehicle model.. <br> `ESP32` `MPU6050` `L298n` |
+| **🖥️ Qt Design Dashboard** | Designing cross-platform GUIs for system monitoring. <br> `Qt Framework` `QML` `C++` |
 
 ---
 
