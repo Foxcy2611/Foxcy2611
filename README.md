@@ -30,10 +30,10 @@ I focus on practical applications of Edge AI and robust IoT systems.
 
 | Project | Description & Tech Stack |
 | :--- | :--- |
-| **<img src="https://img.icons8.com/fluency/48/stethoscope.png" width="24" /> Medical Sound Edge AI** | Respiratory sound classification running *on-device*. <br> `ESP32-S3` `Mel-Spectrogram` `CNN/DNN` |
-| **<img src="https://img.icons8.com/fluency/48/satellite-transmit.png" width="24" /> IoT LoRa OTA Updates** | Remote firmware updates over LoRa networks. <br> `STM32` `LoRa` `MQTT` `IoT Security` |
-| **<img src="https://img.icons8.com/fluency/48/penguin.png" width="24" /> Embedded Linux (OpenWrt)** | Custom firmware building and system optimization. <br> `C/C++` `Buildroot` `OpenWrt` `Docker` |
-| **<img src="https://img.icons8.com/fluency/48/monitor--v1.png" width="24" /> Qt IoT Dashboard** | Designing cross-platform GUIs for system monitoring. <br> `Qt Framework` `QML` `C++` |
+| **🩺 Medical Sound Edge AI** | Respiratory sound classification running *on-device*. <br> `ESP32-S3` `Mel-Spectrogram` `CNN/DNN` |
+| **📡 IoT LoRa OTA Updates** | Remote firmware updates over LoRa networks. <br> `STM32` `LoRa` `MQTT` `IoT Security` |
+| **🐧 Embedded Linux (OpenWrt)** | Custom firmware building and system optimization. <br> `C/C++` `Buildroot` `OpenWrt` `Docker` |
+| **🖥️ Qt IoT Dashboard** | Designing cross-platform GUIs for system monitoring. <br> `Qt Framework` `QML` `C++` |
 
 ---
 
@@ -52,10 +52,10 @@ A curated selection of tools and technologies I work with.
 ## 📊 **GITHUB INSIGHTS**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Foxcy2611&show_icons=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Foxcy2611&theme=transparent&hide_border=true&title_color=0e75b6&text_color=ffffff&icon_color=0e75b6&sideNums=ffffff&sideLabels=ffffff&ring=0e75b6&fire=0e75b6" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxcy2611&layout=compact&theme=transparent&title_color=0e75b6&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxcy2611&layout=compact&theme=transparent&title_color=0e75b6&text_color=ffffff&v=1" alt="Top Languages" />
 </p>
 
 <br>
