@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&category=programming" alt="Programming Quote" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&height=100&lines=🚀+Hello,+I'm+NgocChien+Trùm+VT01+👋;💻+Embedded+Linux+%26+C%2FC%2B%2B+Developer;🤖+TinyML+%26+Edge+AI+Researcher" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
