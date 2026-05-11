@@ -31,7 +31,7 @@ I focus on practical applications of Edge AI and robust IoT systems.
 | Project | Description & Tech Stack |
 | :--- | :--- |
 | **🩺 Medical Sound Edge AI** | Respiratory sound classification running *on-device*. <br> `ESP32-S3` `Mel-Spectrogram` `CNN/DNN` |
-| **📡 Banlance Robot** | The ESP32 self-balancing and controllable two-wheeled vehicle model.. <br> `ESP32` `MPU6050` `L298n` |
+| **🚗 Banlance Robot** | The ESP32 self-balancing and controllable two-wheeled vehicle model.. <br> `ESP32` `MPU6050` `L298n` |
 | **🖥️ Qt Design Dashboard** | Designing cross-platform GUIs for system monitoring. <br> `Qt Framework` `QML` `C++` |
 
 ---
