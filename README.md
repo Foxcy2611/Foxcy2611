@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&height=100&lines=🚀+Hello,+I'm+NgocChien+Trùm+VT01+👋;💻+Embedded+Linux+%26+C%2FC%2B%2B+Developer;🤖+TinyML+%26+Edge+AI+Researcher" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF9A9E,FECFEF,FECC51&height=200&section=header&text=NgocChien%20Trùm%20VT01&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=333333&desc=Embedded%20|%20Edge%20AI%20|%20IoT&descAlignY=60&descFontSize=22&descColor=333333" />
 </p>
 
 <p align="center">
