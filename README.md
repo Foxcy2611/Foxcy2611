@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=PTIT%20-%20NNC&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff&desc=EMBEDDED%20%26%20EDGE%20AI%20WORKSPACE&descAlignY=65&descFontSize=20&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF9A9E,FECFEF,FECC51&height=200&section=header&text=NgocChien%20Trùm%20VT01&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=333333&desc=Embedded%20|%20Edge%20AI%20|%20IoT&descAlignY=60&descFontSize=22&descColor=333333" />
 </p>
 
 <p align="center">
