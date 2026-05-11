@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=WELCOME%20TO%20MY%20TECH%20HUB&fontSize=50&animation=fadeIn&fontAlignY=40&desc=NGOCCHIEN%20TRÙM%20VT01%20-%20Embedded%20&%20Edge%20AI%20Developer&descAlignY=65&descFontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=WELCOME%20TO%20MY%20TECH%20HUB&fontSize=50&animation=fadeIn&fontAlignY=40&color=ffffff&desc=NGOCCHIEN%20TRÙM%20VT01%20-%20Embedded%20&%20Edge%20AI%20Developer&descAlignY=65&descFontSize=20&descColor=ffffff" />
 </p>
 
-<h1 align="center">Hi there, I'm NgocChien! 👋</h1>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=NgocChien&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  
+  <img src="https://img.shields.io/github/followers/NgocChien?label=Followers&style=social" alt="Followers" />
 </p>
 
 <p align="center">
@@ -19,10 +18,10 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FwZjVlbDduNTR1dTVxbHN5ZW40d2FjZ2M4dnA2YWZ0czNqOTN0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
 
-*   🎓 Student at **PTIT (Posts and Telecommunications Institute of Technology)**, majoring in Electronics & Telecommunications.
-*   🔬 Passionate about **Embedded Systems**, **Embedded Linux**, and **TinyML / Edge AI**.
-*   🛠️ Advocating for efficient development with **VS Code, CMake & Makefile**—the days of massive IDEs are behind me.
-*   💡 Fascinated by deploying machine learning models onto low-resource microcontrollers.
+* 🎓 Student at **PTIT (Posts and Telecommunications Institute of Technology)**, majoring in Electronics & Telecommunications.
+* 🔬 Passionate about **Embedded Systems**, **Embedded Linux**, and **TinyML / Edge AI**.
+* 🛠️ Advocating for efficient development with **VS Code, CMake & Makefile**—the days of massive IDEs are behind me.
+* 💡 Fascinated by deploying machine learning models onto low-resource microcontrollers.
 
 ---
 
@@ -54,17 +53,16 @@ A curated selection of tools and technologies I work with.
 ## 📊 **GITHUB INSIGHTS**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=333" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NgocChien&show_icons=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=0e75b6&text_color=333" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&fire=0e75b6&ring=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocChien&layout=compact&theme=transparent&title_color=0e75b6&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-contribution-graph.vercel.app/api?username=YOUR_USERNAME&theme=silver" alt="Contribution Graph" />
+  <img src="https://github-readme-contribution-graph.vercel.app/api?username=NgocChien&theme=silver" alt="Contribution Graph" />
 </p>
 
 ---
@@ -72,6 +70,6 @@ A curated selection of tools and technologies I work with.
 ## 🤝 **GET IN TOUCH**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@ADDRESS.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/ngoc.chien.118175"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:foeveralone2611@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
