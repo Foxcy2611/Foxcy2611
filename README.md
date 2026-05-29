@@ -13,29 +13,6 @@
 
 ---
 
-## 👨‍💻 **WHO AM I?**
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FwZjVlbDduNTR1dTVxbHN5ZW40d2FjZ2M4dnA2YWZ0czNqOTN0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
-
-* 🎓 Student at **PTIT (Posts and Telecommunications Institute of Technology)**, majoring in Electronics & Telecommunications.
-* 🔬 Passionate about **Embedded Systems**, **Embedded Linux**, and **TinyML / Edge AI**.
-* 🛠️ Advocating for efficient development with **VS Code, CMake & Makefile**—the days of massive IDEs are behind me.
-* 💡 Fascinated by deploying machine learning models onto low-resource microcontrollers.
-
----
-
-## 🚀 **WHAT I'M WORKING ON**
-
-I focus on practical applications of Edge AI and robust IoT systems.
-
-| Project | Description & Tech Stack |
-| :--- | :--- |
-| **🩺 Medical Sound Edge AI** | Respiratory sound classification running *on-device*. <br> `ESP32-S3` `Mel-Spectrogram` `CNN/DNN` |
-| **🚗 Banlance Robot** | The ESP32 self-balancing and controllable two-wheeled vehicle model.. <br> `ESP32` `MPU6050` `L298n` |
-| **🖥️ Qt Design Dashboard** | Designing cross-platform GUIs for system monitoring. <br> `Qt Framework` `QML` `C++` |
-
----
-
 ## 🛠️ **MY TECH STACK**
 
 A curated selection of tools and technologies I work with.
