@@ -83,22 +83,6 @@ A glimpse of my recent work across GitHub projects.
 Last updated: 2026-10-17 02:42 (UTC+7)
 <!--RECENT_ACTIVITY:last_update_end-->
 
-
----
-
-## 🐱 **GITHUB COMPANION**
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Foxcy2611/Foxcy2611/main/dist/pet-badge-light.svg" />
-    <img width="360"
-      src="https://raw.githubusercontent.com/Foxcy2611/Foxcy2611/main/dist/pet-badge.svg"
-      alt="YourTomo GitHub Pet" />
-  </picture>
-</p>
-
-
 ---
 
 ## 🤝 **GET IN TOUCH**
