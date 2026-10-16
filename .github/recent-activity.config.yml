@@ -18,3 +18,7 @@ settings:
     timezone: "Asia/Ho_Chi_Minh"
     text: "Last updated: {DATE} (UTC+7)"
     format: "yyyy-mm-dd HH:MM"
+
+# Workaround for upstream PushEvent issue #351 (undefined commit count).
+messages:
+  push: "⬆️ Pushed updates to {REPO}"
