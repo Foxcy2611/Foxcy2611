@@ -1,0 +1,26 @@
+name: Recent GitHub Activity
+
+on:
+  schedule:
+    # Twice per day (UTC); 11:37 and 23:37 in Vietnam (UTC+7).
+    - cron: '37 4,16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Update Recent Development Activity
+        uses: Readme-Workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: Foxcy2611
+          CONFIG_FILE: ./.github/recent-activity.config.yml
