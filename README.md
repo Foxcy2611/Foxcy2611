@@ -32,22 +32,13 @@ A curated selection of tools and technologies I work with.
 
 ---
 
+
 ## 🚀 **FEATURED PROJECTS**
 
 A selection of projects exploring Embedded Systems and Edge AI.
 
-<p align="center">
-  <a href="https://github.com/Foxcy2611/NCKH_2026_AIOT">
-    <img width="48%"
-      src="https://github-stats-extended.vercel.app/api/pin?username=Foxcy2611&repo=NCKH_2026_AIOT&theme=tokyonight&hide_border=true"
-      alt="NCKH 2026 AIoT" />
-  </a>
-  <a href="https://github.com/Foxcy2611/GestureVoice-Desktop-Controller">
-    <img width="48%"
-      src="https://github-stats-extended.vercel.app/api/pin?username=Foxcy2611&repo=GestureVoice-Desktop-Controller&theme=tokyonight&hide_border=true"
-      alt="GestureVoice Desktop Controller" />
-  </a>
-</p>
+<!-- FEATURED_PINNED:START -->
+<!-- FEATURED_PINNED:END -->
 
 ---
 
