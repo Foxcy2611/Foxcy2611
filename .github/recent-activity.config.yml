@@ -1,0 +1,20 @@
+settings:
+  username: "Foxcy2611"
+  readme_file: "./README.md"
+  commit_msg: "docs: refresh recent GitHub activity"
+  max_lines: 5
+  # Focus on coding/project activity; omit stars, forks and comments.
+  whitelisted_events:
+    - push
+    - create_repo
+    - pr_open
+    - pr_merge
+    - issues_open
+    - release
+  # Ignore automatic README/profile edits.
+  ignored_repos:
+    - "Foxcy2611/Foxcy2611"
+  date:
+    timezone: "Asia/Ho_Chi_Minh"
+    text: "Last updated: {DATE} (UTC+7)"
+    format: "yyyy-mm-dd HH:MM"
