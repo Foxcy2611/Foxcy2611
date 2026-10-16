@@ -1,15 +1,21 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=PTIT%20-%20NNC&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=EMBEDDED%20AND%20EDGE%20AI%20WORKSPACE&descAlignY=60&descFontSize=22&descColor=ffffff&v=2" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Foxcy2611&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Foxcy2611?label=Followers&style=social" alt="Followers" />
-</p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:0E75B6,100:06B6D4&height=230&section=header&text=PTIT%20-%20NNC&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=BUILD%20%E2%80%A2%20EXPERIMENT%20%E2%80%A2%20INNOVATE&descAlignY=58&descFontSize=20&descColor=E0F2FE&animation=fadeIn&v=3" alt="PTIT - NNC Banner" />
 
-<p align="center">
-  Embarking on the journey of linking physical worlds to intelligent data.
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=Embedded+Systems+%7C+Edge+AI;From+Hardware+to+Intelligent+Systems;Building+Real-World+IoT+Solutions" width="90%" alt="Typing SVG" />
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Foxcy2611&label=PROFILE+VIEWS&color=0E75B6&style=flat-square" alt="Profile views" />
+    <a href="https://github.com/Foxcy2611">
+      <img src="https://img.shields.io/badge/GITHUB-Foxcy2611-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <p>
+    <i>Connecting the physical world with intelligent systems.</i>
+  </p>
+
+</div>
 
 ---
 
@@ -32,11 +38,25 @@ A curated selection of tools and technologies I work with.
   <img src="https://streak-stats.demolab.com/?user=Foxcy2611&theme=transparent&hide_border=true&title_color=0e75b6&text_color=ffffff&icon_color=0e75b6&sideNums=ffffff&sideLabels=ffffff&ring=0e75b6&fire=0e75b6" alt="GitHub Streak" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/Foxcy2611" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Foxcy2611/Foxcy2611/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Foxcy2611/Foxcy2611/output/github-snake.svg" />
+    <img width="100%" alt="Contribution graph with animated snake" src="https://raw.githubusercontent.com/Foxcy2611/Foxcy2611/output/github-snake.svg" />
+  </picture>
 </p>
+
+---
+
+## ⚡ **RECENT DEVELOPMENT ACTIVITY**
+
+A glimpse of my recent work across GitHub projects.
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ---
 
