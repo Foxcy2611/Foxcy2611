@@ -74,11 +74,10 @@ A glimpse of my recent work across GitHub projects.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed updates to [Foxcy2611/GestureVoice-Desktop-Controller](https://github.com/Foxcy2611/GestureVoice-Desktop-Controller)<br>
 2. ⬆️ Pushed updates to [Foxcy2611/GestureVoice-Desktop-Controller](https://github.com/Foxcy2611/GestureVoice-Desktop-Controller)<br>
-3. ⬆️ Pushed updates to [Foxcy2611/NCKH_2026_AIOT](https://github.com/Foxcy2611/NCKH_2026_AIOT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-10-29 18:03 (UTC+7)
+Last updated: 2026-10-30 04:22 (UTC+7)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
