@@ -72,12 +72,10 @@ A selection of projects exploring Embedded Systems and Edge AI.
 A glimpse of my recent work across GitHub projects.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed updates to [Foxcy2611/GestureVoice-Desktop-Controller](https://github.com/Foxcy2611/GestureVoice-Desktop-Controller)<br>
-2. ⬆️ Pushed updates to [Foxcy2611/GestureVoice-Desktop-Controller](https://github.com/Foxcy2611/GestureVoice-Desktop-Controller)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-10-31 03:59 (UTC+7)
+Last updated: 2026-10-31 17:33 (UTC+7)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
