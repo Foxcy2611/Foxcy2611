@@ -40,12 +40,17 @@ A selection of projects exploring Embedded Systems and Edge AI.
 <!-- FEATURED_PINNED:START -->
 <p align="center">
 <a href="https://github.com/Foxcy2611/NCKH_2026_AIOT"><img src="https://github-stats-extended.vercel.app/api/pin?username=Foxcy2611&amp;repo=NCKH_2026_AIOT&amp;theme=tokyonight&amp;hide_border=true" width="48%" alt="NCKH_2026_AIOT" /></a>
-<a href="https://github.com/Foxcy2611/GestureVoice-Desktop-Controller"><img src="https://github-stats-extended.vercel.app/api/pin?username=Foxcy2611&amp;repo=GestureVoice-Desktop-Controller&amp;theme=tokyonight&amp;hide_border=true" width="48%" alt="GestureVoice-Desktop-Controller" /></a>
+<a href="https://github.com/Foxcy2611/Luckfox_EdgeAI_Workspace"><img src="https://github-stats-extended.vercel.app/api/pin?username=Foxcy2611&amp;repo=Luckfox_EdgeAI_Workspace&amp;theme=tokyonight&amp;hide_border=true" width="48%" alt="Luckfox_EdgeAI_Workspace" /></a>
 </p>
 
 <p align="center">
 <a href="https://github.com/Foxcy2611/Aegis-OTA-Hybrid-Secure-Update-Framework"><img src="https://github-stats-extended.vercel.app/api/pin?username=Foxcy2611&amp;repo=Aegis-OTA-Hybrid-Secure-Update-Framework&amp;theme=tokyonight&amp;hide_border=true" width="48%" alt="Aegis-OTA-Hybrid-Secure-Update-Framework" /></a>
 <a href="https://github.com/Foxcy2611/zRTOS-CortexM3-BareMetal"><img src="https://github-stats-extended.vercel.app/api/pin?username=Foxcy2611&amp;repo=zRTOS-CortexM3-BareMetal&amp;theme=tokyonight&amp;hide_border=true" width="48%" alt="zRTOS-CortexM3-BareMetal" /></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Foxcy2611/GestureVoice-Desktop-Controller"><img src="https://github-stats-extended.vercel.app/api/pin?username=Foxcy2611&amp;repo=GestureVoice-Desktop-Controller&amp;theme=tokyonight&amp;hide_border=true" width="48%" alt="GestureVoice-Desktop-Controller" /></a>
+<a href="https://github.com/Foxcy2611/Python-for-TinyML"><img src="https://github-stats-extended.vercel.app/api/pin?username=Foxcy2611&amp;repo=Python-for-TinyML&amp;theme=tokyonight&amp;hide_border=true" width="48%" alt="Python-for-TinyML" /></a>
 </p>
 <!-- FEATURED_PINNED:END -->
 
